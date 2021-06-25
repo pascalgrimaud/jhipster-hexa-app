@@ -1,0 +1,7 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "7.1.0",
+    "baseName": "jhipsterHexaApp",
+    "projectName": "JHipster Hexa App"
+  }
+}

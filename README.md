@@ -1,1 +1,1 @@
-# jhipster-hexa-app
+# JHipster Hexa App
